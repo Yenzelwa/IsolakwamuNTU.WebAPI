@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F17B0F-8A9C-4507-98F3-5883FA464A37}|IsolakwamuNTU.WebAPI.csproj|c:\\users\\nokukhanyad\\source\\repos\\isolakwamuntu.webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F17B0F-8A9C-4507-98F3-5883FA464A37}|IsolakwamuNTU.WebAPI.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F17B0F-8A9C-4507-98F3-5883FA464A37}|IsolakwamuNTU.WebAPI.csproj|c:\\users\\nokukhanyad\\source\\repos\\isolakwamuntu.webapi\\model\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F17B0F-8A9C-4507-98F3-5883FA464A37}|IsolakwamuNTU.WebAPI.csproj|solutionrelative:model\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F17B0F-8A9C-4507-98F3-5883FA464A37}|IsolakwamuNTU.WebAPI.csproj|c:\\users\\nokukhanyad\\source\\repos\\isolakwamuntu.webapi\\model\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F17B0F-8A9C-4507-98F3-5883FA464A37}|IsolakwamuNTU.WebAPI.csproj|solutionrelative:model\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F17B0F-8A9C-4507-98F3-5883FA464A37}|IsolakwamuNTU.WebAPI.csproj|c:\\users\\nokukhanyad\\source\\repos\\isolakwamuntu.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F17B0F-8A9C-4507-98F3-5883FA464A37}|IsolakwamuNTU.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F17B0F-8A9C-4507-98F3-5883FA464A37}|IsolakwamuNTU.WebAPI.csproj|c:\\users\\nokukhanyad\\source\\repos\\isolakwamuntu.webapi\\model\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F17B0F-8A9C-4507-98F3-5883FA464A37}|IsolakwamuNTU.WebAPI.csproj|solutionrelative:model\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:23:30.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\Model\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Model\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\Model\\UserProfile.cs",
+              "RelativeToolTip": "Model\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:22:12.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubscriptionPlan.cs",
+              "DocumentMoniker": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\Model\\SubscriptionPlan.cs",
+              "RelativeDocumentMoniker": "Model\\SubscriptionPlan.cs",
+              "ToolTip": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\Model\\SubscriptionPlan.cs",
+              "RelativeToolTip": "Model\\SubscriptionPlan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:22:42.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\Model\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Model\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\Model\\UserLogin.cs",
+              "RelativeToolTip": "Model\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:22:10.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:05:48.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
