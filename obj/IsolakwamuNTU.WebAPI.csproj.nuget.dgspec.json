@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\IsolakwamuNTU.WebAPI.csproj": {}
+    "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\IsolakwamuNTU.WebAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\IsolakwamuNTU.WebAPI.csproj": {
+    "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\IsolakwamuNTU.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\IsolakwamuNTU.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\IsolakwamuNTU.WebAPI.csproj",
         "projectName": "IsolakwamuNTU.WebAPI",
-        "projectPath": "c:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\IsolakwamuNTU.WebAPI.csproj",
+        "projectPath": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\IsolakwamuNTU.WebAPI.csproj",
         "packagesPath": "C:\\Users\\NokukhanyaD\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\NokukhanyaD\\source\\repos\\IsolakwamuNTU.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

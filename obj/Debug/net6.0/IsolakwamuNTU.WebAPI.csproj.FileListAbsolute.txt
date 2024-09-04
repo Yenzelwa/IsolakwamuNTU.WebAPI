@@ -30,3 +30,6 @@ C:\Users\NokukhanyaD\source\repos\IsolakwamuNTU.WebAPI\obj\Debug\net6.0\Isolakwa
 C:\Users\NokukhanyaD\source\repos\IsolakwamuNTU.WebAPI\obj\Debug\net6.0\IsolakwamuNTU.WebAPI.genruntimeconfig.cache
 C:\Users\NokukhanyaD\source\repos\IsolakwamuNTU.WebAPI\obj\Debug\net6.0\ref\IsolakwamuNTU.WebAPI.dll
 c:\Users\NokukhanyaD\source\repos\IsolakwamuNTU.WebAPI\obj\Debug\net6.0\Isolakwa.5C0576DA.Up2Date
+c:\Users\NokukhanyaD\source\repos\IsolakwamuNTU.WebAPI\bin\Debug\net6.0\package-lock.json
+c:\Users\NokukhanyaD\source\repos\IsolakwamuNTU.WebAPI\bin\Debug\net6.0\package.json
+c:\Users\NokukhanyaD\source\repos\IsolakwamuNTU.WebAPI\obj\Debug\net6.0\IsolakwamuNTU.WebAPI.sourcelink.json

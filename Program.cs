@@ -5,7 +5,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin", policy =>
     {
-        policy.WithOrigins("http://localhost:3000")
+        policy.WithOrigins("https://yenzelwa.github.io/IsolakwamuNTU.WebAPI")
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
